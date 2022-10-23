@@ -1,3 +1,4 @@
+Discord server - https://discord.gg/gY5rh2bfKg
 Paste release files into rust folder->run release.exe->enjoy
 
 dll 13da7664728b46713887eb5aeb41028b0d18692ea6abf05415fa4422e748adaf 
